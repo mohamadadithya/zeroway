@@ -2,6 +2,13 @@
 
 Zeroway is a number formatter package.
 
+### How to Install
+
+Using npm
+```shell
+npm i zeroway
+```
+
 ### Usage
 
 Using require
