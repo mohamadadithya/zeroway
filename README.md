@@ -31,6 +31,6 @@ import { numFormatter } from 'zeroway';
 let number = 1500000;
 let digit = 2;
 
-zeroway(number, digit);
+numFormatter(number, digit);
 ```
 Output: 1,5M
